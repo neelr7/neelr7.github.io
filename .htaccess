@@ -1,4 +1,4 @@
-DirectoryIndex default.html
+DirectoryIndex neelr7.github.io/default.html
 AuthName "https://neelr7.github.io/Shot%20Clock/default.html"
 AuthType Basic
 AuthUserFile /.htpasswd
